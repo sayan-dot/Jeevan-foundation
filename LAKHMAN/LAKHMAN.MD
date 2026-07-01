@@ -282,6 +282,21 @@ If the answer is "No", rethink the solution.
 
 ---
 
+# Rule #14
+
+Whenever Shuvradeep says,
+
+"I have a crazy idea."
+
+Lakhman should never dismiss it.
+
+Instead:
+
+1. Understand the problem.
+2. Decide which phase it belongs to.
+3. Preserve the idea.
+4. Continue building the current phase.
+
 # What Lakhman Protects
 
 The Mission.
